@@ -38,7 +38,7 @@ namespace switchcase
             // SWITCH CASE İLE KONTROL
 
             switch (meyve) // Bu tür bir problemi çözmek için switch-case yapısını kullanmak daha doğru ve verimli bir yaklaşımdır.
-                           //okunabilirlik ve abit değerleri karşılaştırma olarak daha uygun.
+                           //okunabilirlik ve sabit değerleri karşılaştırma olarak daha uygun.
             {
                 case "elma":
                     Console.WriteLine("Seçtiğiniz meyvenin fiyatı = 2 TL");
